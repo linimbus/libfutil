@@ -1,0 +1,25 @@
+
+#include "futil_typedef.h"
+
+
+
+#ifdef __cplusplus
+#if __cplusplus
+extern "C"{
+#endif
+#endif /* __cplusplus */
+
+
+#ifndef ___H__
+#define ___H__
+
+
+
+#endif
+
+
+#ifdef __cplusplus
+#if __cplusplus
+}
+#endif
+#endif /* __cplusplus */
